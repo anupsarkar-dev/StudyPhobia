@@ -15,9 +15,15 @@ StudyPhobia is a E-Learning  website with a interactive ,responsive & good looki
 * CSS
 
 ## USER INTERFACE
+
+
+<p align="center">
+<img src="./Resources/Capture.PNG"  style="width: 700px;"/>
+</p>
+
 <p align="center">
 <img src="./Resources/Capture1.PNG"  style="width: 700px;"/>
-
+</p>
 <p align="center">
 <img src="./Resources/Capture2.PNG"  style="width: 700px;"/>
 </p>
